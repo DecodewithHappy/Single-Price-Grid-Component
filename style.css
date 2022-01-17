@@ -3,11 +3,30 @@ body {
 }
 
 .center {
-  margin-left: 28%;
+  margin-left: 26%;
   margin-top: 10%;
   margin-right: 32%;
   margin-bottom: 10px;
-  height: 284.633px;
-  width: 617.033px;
+  height: 450px;
+  width: 700px;
   background-color: #fff;
+}
+
+.center-bottom{
+  display: flex;
+  padding-top: 110px;
+  height: 250px;
+}
+
+.column{
+  flex: 40%;
+  padding: 10px;
+}
+
+.left{
+  background-color: #32B8AE;
+}
+
+.right{
+  background-color:#57C9BD;
 }
