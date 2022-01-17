@@ -3,30 +3,57 @@ body {
 }
 
 .center {
+  border-radius: 5px;
   margin-left: 26%;
   margin-top: 10%;
   margin-right: 32%;
   margin-bottom: 10px;
-  height: 450px;
+  height: 458px;
   width: 700px;
   background-color: #fff;
 }
 
-.center-bottom{
+.center-top{
+  padding-left: 40px;
+  padding-top: 18px;
+}
+
+.center-bottom {
   display: flex;
-  padding-top: 110px;
+  padding-top: 40px;
   height: 250px;
 }
 
-.column{
+.column {
   flex: 40%;
   padding: 10px;
 }
 
-.left{
-  background-color: #32B8AE;
+.left {
+  background-color: #32b8ae;
 }
 
-.right{
-  background-color:#57C9BD;
+.right {
+  background-color: #57c9bd;
+}
+
+.First-header {
+  font-family: "Slabo 27px", serif;
+  color: #0da297;
+  font-size: 26px;
+}
+
+.Second-header {
+  font-family: "Slabo 27px", serif;
+  color:#E4ED66;
+}
+
+.first-para{
+  font-family: "Slabo 27px", serif;
+  color : #8D979A;
+}
+
+.second-para{
+  font-family: "Slabo 27px", serif;
+  color : #8D979A;
 }
