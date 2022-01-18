@@ -89,3 +89,24 @@ body {
   font-family: "Slabo 27px", serif;
   color:rgba(229, 229, 229, 0.96);
 }
+
+/* responsiveness */
+@media only screen and (max-width: 1128px) {
+  .center{
+    margin-left:25%;
+    margin-top: 14%;
+  }
+}
+
+@media only screen and (max-width: 944px) {
+  .center{
+    margin-left:18%;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .center{
+    margin-left:12%;
+    margin-top: 16%;
+  }
+}
