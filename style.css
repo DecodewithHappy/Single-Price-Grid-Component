@@ -1,5 +1,7 @@
 body {
   background-color: rgb(228, 237, 247);
+  font-family: 'Karla', sans-serif;
+  font-weight: 2px;
 }
 
 .center {
@@ -41,23 +43,19 @@ body {
 }
 
 .First-header {
-  font-family: "Slabo 27px", serif;
   color: #0da297;
   font-size: 26px;
 }
 
 .Second-header {
-  font-family: "Slabo 27px", serif;
   color:#E4ED66;
 }
 
 .first-para, .second-para{
-  font-family: "Slabo 27px", serif;
   color : #8D979A;
 }
 
 .Third-header, .Fourth-header, .Fifth-header{
-  font-family: "Slabo 27px", serif;
   color : #fff;
 }
 
@@ -65,12 +63,10 @@ body {
   padding-left : 64px;
   margin-top: -48px;
   color: #A3DADA;
-  font-family: "Slabo 27px", serif;
 }
 
 .fourth-para{
   color: #fff;
-  font-family: "Slabo 27px", serif;
   margin-bottom: 24px;
 }
 
@@ -81,12 +77,10 @@ body {
   height: 42px;
   background-color: #CDE04D;;
   color: #fff;
-  font-family: "Slabo 27px", serif;
   font-size: 16px;
 }
 
 .fifth-para{
-  font-family: "Slabo 27px", serif;
   color:rgba(229, 229, 229, 0.96);
 }
 
@@ -108,5 +102,24 @@ body {
   .center{
     margin-left:12%;
     margin-top: 16%;
+  }
+}
+
+@media only screen and (max-width:710px){
+  .center{
+    border-radius: 5px 5px;
+    margin-left: 16%;
+    margin-top: 10%;
+    margin-right: 32%;
+    margin-bottom: 10%;
+    height: 700px;
+    width: 400px;
+    background-color: #fff;
+  }
+
+  .center-top{
+    width: 190px;
+    height: 200px;
+    padding-left: 20px;
   }
 }
