@@ -137,6 +137,9 @@ body {
    height : 550px;
    width : 320px;
  }
+ .button{
+   width: 220px;
+ }
 }
 
 .attribution{
