@@ -27,6 +27,8 @@ Users should be able to:
 
 ![](./design/Screenshot-desktop.png)
 
+![](./design/Screenshot-Mobile.png)
+
 ### Links
 
 - Question URL: [Click Here](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-Zp0EfV9GW)
