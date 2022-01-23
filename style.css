@@ -144,7 +144,7 @@ body {
   right : 0;
   top: 0;
   margin: 0;
-  transform:translate(-5vw, 5vh);
+  transform:translate(-1vw, 1vh);
   color: rgba(14, 53, 230, 0.986);
   font-weight: bold;
 }
